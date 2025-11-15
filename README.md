@@ -19,7 +19,7 @@ Il regroupe plusieurs mini-exemples simples pour découvrir et pratiquer :
 
 ---
 
-## 🛠 Prérequis
+##  Prérequis
 
 - Node.js installé (version récente recommandée)
 - Connaissances de base en :
